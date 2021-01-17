@@ -13,7 +13,7 @@ class Form {
   
     display(){
       var title = createElement('h2')
-      title.html("Car Racing Game");
+      title.html("Run to Achieve");
       title.position(130, 0);
   
       this.input.position(130, 160);
